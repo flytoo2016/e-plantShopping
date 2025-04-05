@@ -1,6 +1,3 @@
-//https://github.com/RyanL2004/e-paradiseShopping/blob/43190848608341e9f4628bf12cc6c7a2a9c7c436/src/ProductList.jsx
-//https://kiki092002.github.io/e-plantShopping/
-//https://github.com/kiki092002/e-plantShopping
 import React, { useState, useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import './ProductList.css'
